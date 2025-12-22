@@ -17,8 +17,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaug-tran&theme=tokyonight&hide_border=true&bg_color=00000000&layout=donut" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoaug-tran&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
-
 </div>
