@@ -10,7 +10,7 @@
 <br/><br/>
 
 <p align="center"> 
-  <img src="https://github-readme-stats-xi-blush.vercel.app/api?username=hoaug-tran&cache_seconds=1800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Hoaug's Stats" /> 
+  <img src="http://status.hoaug.io.vn/api?username=hoaug-tran&cache_seconds=1800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Hoaug's Stats" /> 
 </p>
 
 <p align="center">
